@@ -125,18 +125,13 @@ struct mahasiswa {
     float nilaiAkhir;
 };
 
-// Fungsi: menghitung nilai akhir = 0.3*uts + 0.4*uas + 0.3*tugas
 float hitungNilaiAkhir(mahasiswa m);
 
-// I.S. m sembarang
-// F.S. m terisi nama, nim, uts, uas, tugas, dan nilaiAkhir
 void inputMhs(mahasiswa &m);
 
-// I.S. m terdefinisi
-// F.S. data satu mahasiswa tampil di layar
 void tampilMhs(mahasiswa m);
 
-#endif // SOAL1_H_INCLUDED
+#endif 
 ```
 
 **soal1.cpp**
@@ -231,14 +226,11 @@ struct pelajaran {
     string kodeMapel;
 };
 
-// Konstruktor: membentuk pelajaran dari nama dan kode
 pelajaran create_pelajaran(string namapel, string kodepel);
 
-// I.S. pel terdefinisi
-// F.S. nama dan kode pelajaran tampil di layar
 void tampil_pelajaran(pelajaran pel);
 
-#endif // SOAL2_H_INCLUDED
+#endif 
 ```
 
 **soal2.cpp**
@@ -295,7 +287,6 @@ Soal ini melatih konsep konstruktor pada ADT, yaitu fungsi yang membentuk nilai 
 #include <iostream>
 using namespace std;
 
-// Menampilkan isi array 2D 3x3
 void tampilArray(int arr[3][3]) {
     for (int i = 0; i < 3; i++) {
         for (int j = 0; j < 3; j++) {
@@ -305,14 +296,12 @@ void tampilArray(int arr[3][3]) {
     }
 }
 
-// Menukar isi array A dan B pada posisi (baris, kolom) tertentu
 void tukarPosisi(int A[3][3], int B[3][3], int baris, int kolom) {
     int temp = A[baris][kolom];
     A[baris][kolom] = B[baris][kolom];
     B[baris][kolom] = temp;
 }
 
-// Menukar isi variabel yang ditunjuk oleh dua pointer
 void tukarPointer(int *p1, int *p2) {
     int temp = *p1;
     *p1 = *p2;
