@@ -200,7 +200,7 @@ int main() {
 ### Output Unguided 1 :
 
 ##### Output 1
-![Screenshot Output Unguided 1_1](https://github.com/widi-ui/109082500108_Hananto-Widi-U./blob/main/modul%203/Output/output1.png?raw=true)
+![Screenshot Output Unguided 2_1](https://github.com/widi-ui/109082500108_Hananto-Widi-U./blob/main/modul%203/Output/Output3.1.png?raw=true)
 
 penjelasan unguided 1
 Soal pertama meminta ADT `mahasiswa` dalam tiga file: `soal1.h` berisi struct dan prototype, `soal1.cpp` berisi isi fungsi, dan `main_soal1.cpp` berisi program utama. Struct `mahasiswa` punya field `nama`, `nim`, `uts`, `uas`, `tugas`, dan `nilaiAkhir`. Konstanta `MAKS = 10` membatasi jumlah data di array.
@@ -270,7 +270,7 @@ int main() {
 ### Output Unguided 2 :
 
 ##### Output 1
-![Screenshot Output Unguided 2_1](https://github.com/widi-ui/109082500108_Hananto-Widi-U./blob/main/modul%203/Output/output2.png?raw=true)
+![Screenshot Output Unguided 2_1](https://github.com/widi-ui/109082500108_Hananto-Widi-U./blob/main/modul%203/Output/output3.2.png?raw=true)
 
 penjelasan unguided 2
 Soal kedua meminta ADT `pelajaran` dalam tiga file, yaitu `soal2.h`, `soal2.cpp`, dan `main_soal2.cpp`. Struct `pelajaran` punya dua field, `namaMapel` dan `kodeMapel`.
@@ -348,7 +348,7 @@ int main() {
 ### Output Unguided 3 :
 
 ##### Output 1
-![Screenshot Output Unguided 3_1](https://github.com/widi-ui/109082500108_Hananto-Widi-U./blob/main/modul%203/Output/output3.png?raw=true)
+![Screenshot Output Unguided 2_1](https://github.com/widi-ui/109082500108_Hananto-Widi-U./blob/main/modul%203/Output/output3.3.png?raw=true)
 
 penjelasan unguided 3
 Soal ketiga memakai dua array dua dimensi `A` dan `B` berukuran 3×3, serta dua pointer `p1` dan `p2` yang menunjuk ke variabel `x` dan `y`.
