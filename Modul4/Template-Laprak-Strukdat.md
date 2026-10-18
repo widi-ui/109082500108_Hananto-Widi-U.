@@ -374,7 +374,7 @@ Hasil akhirnya, saat `printInfo()` dipanggil, list tampil dengan urutan 9 12 8 0
 
 Kesimpulan: soal ini melatih pembuatan ADT singly linked list, alokasi node, dan penyisipan di awal list dengan `insertFirst()`.
 
-### 2. (Dari soal pertama, hapus node 9 dengan deleteFirst(), node 2 dengan deleteLast(), dan node 8 dengan deleteAfter(). Tampilkan jumlah node dengan nbList(), lalu hapus seluruh node dengan deleteList())
+### 2. (Dari soal Latihan pertama, lakukan penghapusan node 9 menggunakan deleteFirst(), node 2 menggunakan deleteLast(), dan node 8 menggunakan deleteAfter(). Kemudian tampilkan jumlah node yang tersimpan menggunakan nbList() dan lakukan penghapusan seluruh node menggunakan deleteList().)
 
 **Singlylist2.h**
 ```C++
