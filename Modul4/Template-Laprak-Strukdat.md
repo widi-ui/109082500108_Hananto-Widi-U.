@@ -540,7 +540,7 @@ int main() {
 ### Output Unguided 2 :
 
 ##### Output 1
-![Screenshot Output Unguided 2](https://github.com/widi-ui/109082500108_Hananto-Widi-Utomo/blob/main/Modul4/Output/Output2.png?raw=true)
+![Screenshot Output Unguided 2](https://github.com/widi-ui/109082500108_Hananto-Widi-U./blob/main/Modul4/Output/output2.png?raw=true)
 
 penjelasan unguided 2
 Pada soal kedua, list dari soal pertama (9 12 8 0 2) ditambah prosedur penghapusan. Prosedur `deleteFirst()`, `deleteLast()`, dan `deleteAfter()` hanya melepas node dari list lalu mengembalikan alamatnya lewat parameter `P`. Setelah itu node dihapus dari memori dengan `dealokasi()`.
