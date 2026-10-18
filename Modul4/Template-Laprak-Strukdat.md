@@ -355,8 +355,7 @@ int main() {
 ### Output Unguided 1 :
 
 ##### Output 1
-![Screenshot Output Unguided 1](https://github.com/widi-ui/109082500108_Hananto-Widi-Utomo/blob/main/Modul4/Output/Output1.png?raw=true)
-
+![Screenshot Output Unguided 1](https://github.com/widi-ui/109082500108_Hananto-Widi-U./blob/main/Modul4/Output/output1.png?raw=true)
 
 penjelasan unguided 1
 Pada soal pertama, dibuat ADT singly linked list dengan data bertipe `int`. Struct `ElmList` menyimpan `info` dan `next`, sedangkan struct `List` menyimpan pointer `First` ke node pertama.
